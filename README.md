@@ -1,4 +1,4 @@
-t# 👨🏻‍💻 Matheus Duarte
+# 👨🏻‍💻 Matheus Duarte
 
 **`Desenvolvedor Frontend`**
 
@@ -83,5 +83,7 @@ Me chamo Matheus, tenho 26 anos e atualmente estudo Análise e Desenvolvimento d
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus5404&true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
+
 
 
