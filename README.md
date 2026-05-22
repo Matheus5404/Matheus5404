@@ -11,23 +11,25 @@ Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento d
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSS"
+    title="CSS" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
@@ -36,7 +38,7 @@ Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento d
     alt="Java"
     title="Java" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
@@ -45,38 +47,38 @@ Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento d
     alt="Spring Boot"
     title="Spring Boot" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="PostgreSql" 
-    title="PostgreSql"
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
- 
-/>
+
 <img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Git"
+    title="Git" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
+<br clear="both"/>
 
 ### 📊 Estatísticas
 
