@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Matheus, tenho 26 anos e atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec de Itu no 4º Semestre, gosto da área de tecnologia, principalmente resolver problemas complexos e criar soluções no dia a dia usando as ferramentas mais utilizadas atualmente. Sou apaixonado por aprender coisas novas e compartilhar conhecimento com a comunidade, sempre buscando melhorar minhas habilidades e contribuir para projetos interessantes.
+Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec de Itu no 4º Semestre, gosto da área de tecnologia, principalmente resolver problemas complexos e criar soluções no dia a dia usando as ferramentas mais utilizadas atualmente. Sou apaixonado por aprender coisas novas e compartilhar conhecimento com a comunidade, sempre buscando melhorar minhas habilidades e contribuir para projetos interessantes.
 
 ### 🤖 Linguagens e Tecnologias
 
