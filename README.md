@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Matheus Duarte
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Back End Java`**
 
 Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec de Itu no 4º Semestre, gosto da área de tecnologia, principalmente resolver problemas complexos e criar soluções no dia a dia usando as ferramentas mais utilizadas atualmente. Sou apaixonado por aprender coisas novas e compartilhar conhecimento com a comunidade, sempre buscando melhorar minhas habilidades e contribuir para projetos interessantes.
 
@@ -24,11 +24,29 @@ Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento d
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
@@ -48,14 +66,7 @@ Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -72,16 +83,15 @@ Me chamo Matheus, tenho 27 anos e atualmente estudo Análise e Desenvolvimento d
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height= "200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Matheus5404&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=Matheus5404&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"
 />
+
 <img 
     align="left" 
-    alt="GitHub Stats" 
-    height= "200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus5404&true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Top Languages" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus5404&layout=compact&theme=tokyonight&langs_count=8&custom_title=Tecnologias"
 />
 
 
